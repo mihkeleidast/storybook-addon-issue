@@ -1,4 +1,4 @@
-import { addons, types } from '@storybook/addons';
+import { addons, types } from '@storybook/manager-api';
 import { Icons, IconButton } from '@storybook/components';
 import { styled } from '@storybook/theming';
 import React from 'react';
